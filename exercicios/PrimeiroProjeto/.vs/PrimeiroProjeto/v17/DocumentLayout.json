@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raulm\\Desktop\\C# N\u00E9lio\\Logica Programacao\\exercicios\\PrimeiroProjeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB739EF-7820-4588-B0A1-B1BFD93DA9E1}|PrimeiroProjeto\\PrimeiroProjeto.csproj|c:\\users\\raulm\\desktop\\c# n\u00E9lio\\logica programacao\\exercicios\\primeiroprojeto\\primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB739EF-7820-4588-B0A1-B1BFD93DA9E1}|PrimeiroProjeto\\PrimeiroProjeto.csproj|solutionrelative:primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raulm\\Desktop\\C# N\u00E9lio\\Logica Programacao\\exercicios\\PrimeiroProjeto\\PrimeiroProjeto\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeiroProjeto\\Program.cs",
+              "ToolTip": "C:\\Users\\raulm\\Desktop\\C# N\u00E9lio\\Logica Programacao\\exercicios\\PrimeiroProjeto\\PrimeiroProjeto\\Program.cs",
+              "RelativeToolTip": "PrimeiroProjeto\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:27:44.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
